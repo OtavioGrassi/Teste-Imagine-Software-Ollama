@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LpN2D7jOx1s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ramos\\Downloads\\Teste Imagine Software\\McpServer\\McpServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ramos\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0\\microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "C:\\Users\\ramos\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
