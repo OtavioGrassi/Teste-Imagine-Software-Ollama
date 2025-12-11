@@ -2,8 +2,6 @@
 
 Este projeto é um teste técnico realizado para uma vaga na Imagine Software. Ele demonstra a criação de um **Chat Cliente** capaz de interagir com o modelo de linguagem local **Ollama** e, quando necessário, acessar uma **API externa** através de um servidor **MCP (Master Control Program)**.
 
-
-
 ## 🎯 Objetivo do Teste
 
 O principal requisito do teste era desenvolver um sistema de chat onde o modelo de IA pudesse:
@@ -36,6 +34,9 @@ Para rodar o projeto, você deve ter os seguintes itens instalados e configurado
 
 1.  **Ollama:** É essencial ter o Ollama instalado e rodando em sua máquina.
     * **Link para Download:** [https://ollama.com/download/windows](https://ollama.com/download/windows)
+
+![ollama rodando](ollama.jpg)
+
 2.  **VS Code Extensions:**
     * [.NET Install Tool](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-sdk)
     * [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
@@ -98,8 +99,10 @@ Com o servidor rodando, abra um **novo terminal** para iniciar o chat.
 O chat estará agora inicializado. Você pode interagir com a IA da seguinte forma:
 
 1.  **Perguntas Gerais:** A IA responderá com seu conhecimento interno.
-    * *Exemplo: "O que é C#?"*
+    * *Exemplo: "Qual a capital do Brasil?"*
 2.  **Perguntas de API:** A IA reconhecerá a necessidade de obter informações em tempo real e delegará a requisição ao Servidor MCP.
-    * *Exemplo: "Qual é o horário do servidor agora?"*
+    * *Exemplo: "Que horas são?"*
 
-**Divirta-se conversando com a IA!**
+![Aplicação rodando](<aplicação rodando.png>)
+
+**Espero que tenham gostado!**
