@@ -99,9 +99,9 @@ Com o servidor rodando, abra um **novo terminal** para iniciar o chat.
 O chat estará agora inicializado. Você pode interagir com a IA da seguinte forma:
 
 1.  **Perguntas Gerais:** A IA responderá com seu conhecimento interno.
-    * *Exemplo: "Qual a data de hoje?"*
+    * *Exemplo: "Qual a capital do Brasil?"*
 2.  **Perguntas de API:** A IA reconhecerá a necessidade de obter informações em tempo real e delegará a requisição ao Servidor MCP.
-    * *Exemplo: "Que horas são?"*
+    * *Exemplo: "Qual a data de hoje?"*
 
 ![Aplicação rodando](<aplicação rodando.png>)
 
