@@ -48,7 +48,7 @@ Para rodar o projeto, você deve ter os seguintes itens instalados e configurado
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [https://github.com/OtavioGrassi/Teste-Imagine-Software-Ollama](https://github.com/OtavioGrassi/Teste-Imagine-Software-Ollama)
+    git clone https://github.com/OtavioGrassi/Teste-Imagine-Software-Ollama
     ```
 
 2.  **Acesse a Pasta Raiz do Projeto:**
@@ -99,7 +99,7 @@ Com o servidor rodando, abra um **novo terminal** para iniciar o chat.
 O chat estará agora inicializado. Você pode interagir com a IA da seguinte forma:
 
 1.  **Perguntas Gerais:** A IA responderá com seu conhecimento interno.
-    * *Exemplo: "Qual a capital do Brasil?"*
+    * *Exemplo: "Qual a data de hoje?"*
 2.  **Perguntas de API:** A IA reconhecerá a necessidade de obter informações em tempo real e delegará a requisição ao Servidor MCP.
     * *Exemplo: "Que horas são?"*
 
